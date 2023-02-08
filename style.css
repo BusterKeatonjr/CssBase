@@ -1,14 +1,19 @@
-#elem1{
+.bbb.zzz {
   color: red;
 }
-#elem2{
-  color: green;
+
+h2.bbb.zzz {
+  color: rgb(180, 0, 0);
 }
 
-#elem3{
-   color: rgb(29, 125, 204);
+#elem.bbb {
+  color: blue;
 }
 
-.c{
- text-transform: uppercase;
+#elem0.bbb.zzz {
+  color: red;
+}
+
+h2#elem1.bbb {
+  color: orange;
 }
